@@ -1,4 +1,4 @@
-package mydebug
+package dddebug
 
 import (
 	"encoding/json"
